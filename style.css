@@ -153,3 +153,13 @@ nav {
     width: 100px;
     height: 30px;
 }
+
+/* FOOTER */
+
+.footer {
+    background-color: #1F2937;
+    padding: 15px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
