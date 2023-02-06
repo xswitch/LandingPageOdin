@@ -101,6 +101,7 @@ nav {
     justify-content: center;
     align-items: center;
     gap: 5px;
+    padding-bottom: 50px;
 }
 
 .picture {
@@ -108,4 +109,21 @@ nav {
     height: 150px;
     width: 150px;
     border-radius: 10%;
+}
+
+/* QUOTE */
+
+.quote {
+    padding: 100px 10%;
+    background-color: #E5E7EB;
+}
+
+.quoteText {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quoteAuthor {
+    text-align: right;
 }
